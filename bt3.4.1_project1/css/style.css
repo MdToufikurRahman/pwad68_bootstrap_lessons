@@ -1,0 +1,8 @@
+.service {
+    background-color: aqua;
+    height: 100px; border: 1px solid black;
+}
+.service2 {
+    background-color: rgb(65, 211, 130);
+    height: 100px; border: 1px solid black;
+}
